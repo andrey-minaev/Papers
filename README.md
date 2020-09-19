@@ -1,2 +1,2 @@
-# The repository provides pdfs of my latest working papers
+# The repository contains my latest working papers materials.
  
